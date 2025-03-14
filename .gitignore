@@ -1,10 +1,12 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
-*.apk
-*.unitypackage
+# Ignore the Library folder
 /Library/
+
+
+# Unity folders to ignore
+/[Ll]ibrary/
+/[Tt]emp/
+/[Bb]uild/
+/[Ll]ogs/
+/[Oo]bj/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
