@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shakt\\Music\\Back_Up\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|c:\\users\\shakt\\music\\back_up\\assets\\scripts\\maingamescripts\\alphabatebuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingamescripts\\alphabatebuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\maingamescripts\\touchmovementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingamescripts\\touchmovementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\maingamescripts\\scenechangebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingamescripts\\scenechangebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\mainmenuscripts\\start_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuscripts\\start_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\mainmenuscripts\\mainmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuscripts\\mainmenuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\mainmenuscripts\\panelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuscripts\\panelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\maingamescripts\\pointeralignmentscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingamescripts\\pointeralignmentscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\maingamescripts\\pathgenerate handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingamescripts\\pathgenerate handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD842A5-4BFB-9816-C235-BA252406A18E}|Assembly-CSharp-Editor.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\editor\\patheditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD842A5-4BFB-9816-C235-BA252406A18E}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\patheditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\maingamescripts\\pathdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingamescripts\\pathdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\maingamescripts\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingamescripts\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\maingamescripts\\handguidehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingamescripts\\handguidehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\maingamescripts\\guidescripthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingamescripts\\guidescripthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\maingamescripts\\dynamicline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maingamescripts\\dynamicline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|C:\\Users\\shakt\\Music\\Back_Up\\assets\\scripts\\mainmenuscripts\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73ABE48-3F01-3F98-F998-B2EE682980BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuscripts\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlphabateButtonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\AlphabateButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameScripts\\AlphabateButtonHandler.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\AlphabateButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameScripts\\AlphabateButtonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:11:59.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneChangeBtn.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\SceneChangeBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameScripts\\SceneChangeBtn.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\SceneChangeBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameScripts\\SceneChangeBtn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:17:18.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PointerAlignmentScript.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\PointerAlignmentScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameScripts\\PointerAlignmentScript.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\PointerAlignmentScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameScripts\\PointerAlignmentScript.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:47:46.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PanelHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainMenuScripts\\PanelHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuScripts\\PanelHandler.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainMenuScripts\\PanelHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuScripts\\PanelHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:48:21.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenuHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainMenuScripts\\MainMenuHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuScripts\\MainMenuHandler.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainMenuScripts\\MainMenuHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuScripts\\MainMenuHandler.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:02:58.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TouchMovementHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\TouchMovementHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameScripts\\TouchMovementHandler.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\TouchMovementHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameScripts\\TouchMovementHandler.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAiwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:32:37.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PathGenerate Handler.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\PathGenerate Handler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameScripts\\PathGenerate Handler.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\PathGenerate Handler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameScripts\\PathGenerate Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:28:27.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Start_Category.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainMenuScripts\\Start_Category.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuScripts\\Start_Category.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainMenuScripts\\Start_Category.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuScripts\\Start_Category.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:04:42.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PathEditor.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\Editor\\PathEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\PathEditor.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\Editor\\PathEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\PathEditor.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:05:18.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PathDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\PathDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameScripts\\PathDrawer.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\PathDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameScripts\\PathDrawer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:31:07.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\Path.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameScripts\\Path.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\Path.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameScripts\\Path.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA/wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:41:32.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HandGuideHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\HandGuideHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameScripts\\HandGuideHandler.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\HandGuideHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameScripts\\HandGuideHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:07:56.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GuideScriptHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\GuideScriptHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameScripts\\GuideScriptHandler.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\GuideScriptHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameScripts\\GuideScriptHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:07:50.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DynamicLine.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\DynamicLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainGameScripts\\DynamicLine.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainGameScripts\\DynamicLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainGameScripts\\DynamicLine.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:51:34.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ButtonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainMenuScripts\\ButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuScripts\\ButtonHandler.cs",
+              "ToolTip": "C:\\Users\\shakt\\Music\\Back_Up\\Assets\\Scripts\\MainMenuScripts\\ButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuScripts\\ButtonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:48:34.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
